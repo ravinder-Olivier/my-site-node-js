@@ -1,14 +1,14 @@
 {
   "dependencies": {
+    "ejs": "^3.1.8",
     "nodejs": "^0.0.0"
   },
   "name": "ravinder-olivier.github.io",
   "description": "My Personal website, blog and other information",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run"
   },
   "repository": {
     "type": "git",
